@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// Dodan komentar
 int main()
 {
 	printf("Hello world\n");
